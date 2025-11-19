@@ -1,0 +1,22 @@
+# Large data files
+*.csv
+large_twitch_*.csv
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Temporary Gephi files
+*.gephi_temp*
+
+# Large Gephi files (optional - uncomment if needed)
+# *.gephi
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
